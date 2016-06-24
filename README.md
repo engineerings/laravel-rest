@@ -1,1 +1,1 @@
-# laravel-rest
+# laravel RESTful Web Services 
